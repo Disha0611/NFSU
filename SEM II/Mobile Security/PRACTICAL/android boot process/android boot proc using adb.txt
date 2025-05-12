@@ -1,0 +1,14 @@
+Practical related to android startup process using ADB
+
+adb devices
+adb connect <ip address of genymotion device>
+adb devices 
+
+adb shell
+ls
+ps [look for init proc at PID 1]
+ls | grep "init" [look for init.rc file]
+cat init.rc | less
+ps | grep "zygote"
+
+

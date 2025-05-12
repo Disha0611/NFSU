@@ -1,0 +1,161 @@
+Question Bank 2025
+
+1. IRM&DF 
+	Explain the incident handling process with a suitable diagram
+	A computer having IP address 192.168.0.10 is connected to the LAN. HOw to confirm that the computer is not infected by a botnet?
+	Write in brief how Splunk can help in real-time log analysis 
+	What is timeline analysis? How vertical timelineis different from the Gantt chart timeline 
+	An IOT device is placed in the paddy field for regular field assessment.It is sending data to the cloud server along with the other sensors.What are the preventive measures required to safeguard these sensors from malware?
+	How CIA plays an important role in the indian defense system?
+	What is the need for data management in a data warehouse? What are the data recovery technologies used by these organizations?
+	Define virtualization. HOw to create a virtualization environment for resource management 
+	Write short notes on NIST and OWASP
+	Write a brief note on post incident activity 
+	What is slcak space?
+	Explain the cybercrime investigation SOP 
+	Explain acquistion techniques and types of acquisition for mobile devices and computers
+	Write a note on incident response team roles
+	Write a case-study explaining the importance of digital forensic investigation 
+	What was the name of the first anti-virus software?
+	A xyz is a program embedded inside of a GIF image
+	How I/O Panel connectors and SATA connectors can be used to minimize computer incidents 
+	Explain how distributed database and centralized database can be secured to avoide incidents 
+	Data integrity is more important than data availability in GhatGPT, justify.
+	What is the difference between imaging and cloning?
+	What is write blockers and importance of write blockers
+	Explain estimating the cost of an incident 
+	What makes you an ideal candidate for a position of incident manager in a network related organization?
+	A technology-based company suggested data replication and virtualization as a disaster recovery solution, justify your answer.
+	Explain IRM reports with necessary information with any recent case study with root cause.
+	What are important artifacts related to user activities? How SIEM tools analyze these artifacts 
+
+
+
+
+2. Mobile Security 
+	What are important features of Santoku and why is it important for mobile forensics?
+	Discuss about hexdump
+	What is dalvik? HOw is it different from smali?
+	What are different phases of pen-testing?
+	Explain OWASP top 10 vulnerabilities for mobiles
+	What is security audit, its challenges and phases?
+	What is reverse engineering, apktool and its features?
+	Discuss vulnerability assessment and its types
+	Write a short note on android content provider.
+	Explain MobSF In detail
+	Explain the android application security vulnerability assessment using QARK.
+	Explain security auditing with drozer.
+	Explain mobile application security pen-testing strategy 
+	Explain FRida and objection framework for android dynamic instrumentation.
+	Explain jadx jdgui and dexdump in reverse engineering process.
+	Explain android partitions and filesystems 
+	Explain android passive and active traffic analysis 
+	What is security? What could be the possible threats for mobiles?
+	What is DVM? Explain execution of DVM with comparison of JVM 
+	Explain step-by-step active analysis of android traffic using burpsuite 
+	
+
+
+
+
+3. Network Security 
+	Explain the ARP protocol with respect to this scenario along with ARP spoofing and all its attack vectors and attack surface.
+	Illustrate ElGamal ECC Encryption algorithm with an example
+	Encrypt the following message using playfair cipher 
+	Calculate the power modulo 191^930 mod 103
+	Find the value of phi(65) and phi(99)
+	What is the zero point of an elliptic curve 
+	Explain the difference between error control and flow control
+	Define - primitive root, masquerading, diffusion, relatively prime, avalanche effect
+	RSA and Diffie Hellman numericals 
+	Explain protocols and its types
+	Explain any seven wireshark filters with synatx 
+	Explain flow analysis techniques 
+	Explain TCP and UDP header 
+	Explain TCP Segment header 
+	Explain GRE protocol and its uses 
+	Explain CAM overflow in detail
+	Explain SMTP in detail 
+	Explain authentication server.
+	Explain CIA triage.
+	NIDS vs NIPS
+	
+
+
+
+
+
+4. Malware Analysis 
+	What is hashing and how is it useful in DF 
+	What is the difference between a function call and jump in 
+	What is assembly language and how is it different from high level programming language?
+	List data transfer instruction types and explain anone with suitable example
+	Convert C program to assembly language 
+	As given below output write assembly language program on it 
+	What are some of the techniques used in dyanmic analysis and when is each technique most effective?
+	How to detect packers? EXplain three methods.
+	How to analyze dynamically linked and runtime-linked lobraries 
+	Explain the unpacker and unpacking methods in detail.
+	Set up and ideal lab for dynamic analysis of malware 
+	Illustrate the importance of malware analysis in the industrial aspects 
+	Discuss disassembly and their types/algorithms 
+	Explain 4 types of malware - characteristics, behaviour, case study 
+	Explain - virtualallocex, writeprocessmemory, createremotethread
+	Explain keylogger behaviour
+	Explain the difference between kernel mode and user mode debugging 
+	Write a detailed note on breakpoint and its types
+	Explain reverse engineering and IDA pro
+	What is hook injection?
+	Explain four major sections of main memory 
+	Understanding of code snippets
+	Discuss anti-reverse engineering techniques with types and examples 
+	Explain process injectiron.
+	What is cyber warfare explain with case study related to malware
+	What is anti virtual machine in malware analysis 
+	Explain malware sandboxing? How can various parameters be identified from sandbox 
+	What is debugging with stages 
+	How deep packet inspection of network packets can be used in malware forensics?
+	What is volatile data in digital forensics?
+	Explain APT and its lifecycle in detail 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

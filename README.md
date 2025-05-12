@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 # NFSU
 =======
+=======
+>>>>>>> 41c043d (Initial Commit with Study Materials and README)
 # NFSU Study Material Repository
 
 This repository contains organized study materials for Semester 1 and Semester 2 at NFSU (National Forensic Sciences University). It includes notes, previous exam papers, and other academic resources for reference and preparation.
@@ -45,4 +48,7 @@ If you’d like to contribute or request materials, feel free to open an issue o
 ---
 
 
+<<<<<<< HEAD
+>>>>>>> 41c043d (Initial Commit with Study Materials and README)
+=======
 >>>>>>> 41c043d (Initial Commit with Study Materials and README)

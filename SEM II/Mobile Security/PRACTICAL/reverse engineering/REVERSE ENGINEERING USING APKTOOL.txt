@@ -1,0 +1,41 @@
+REVERSE ENGINEERING USING APK TOOLS
+
+unzip -d demo diva-beta.apk
+cd demo
+ls
+vim AndroidManifest.xml
+ <to show that xml file cannot directly be accessed in human readable form after unpacking>
+
+
+Download jadx
+unzip -d jadx jadx.apk
+cd jadx
+ls
+
+
+sudo apt-get upgrade
+apktool    [check for the latest version]
+cd
+ls
+cd usr
+ls -l
+cd local 
+ls
+cd bin
+ls
+./install-apktool.sh
+
+adb connect <ip address>
+adb devices
+
+apktool d diva.apk -o diva_decompiled
+apktool b diva_decompiled -o diva_rebuilt.apk
+apktool d diva.apk --only-main
+
+hexdump -d extracted_apk/classes.dex
+dexdump -d extracted_apk/classes.dex
+d2j-dex2jar.sh extracted_apk/classes.dex -o diva.jar
+
+d2j-dex2jar.sh diva.apk -o diva.jar
+jd-gui
+

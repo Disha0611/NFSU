@@ -1,0 +1,39 @@
+ADB COMMANDS LIST : 
+
+adb
+adb connect <ip address of android VM>
+adb devices 
+	adb kill-server
+	adb start server 
+adb shell
+adb ps
+adb push <local> <remote>
+adb pull <remote> [<local>]
+adb shell logcat
+adb shell logcat -b radio -v time
+adb install diva-beta.apk
+
+shell@android:/$
+	ls
+	cat
+	cd
+	cp
+	chmod
+	dd
+	rm
+	mkdir
+	df
+	ps
+	mount
+	exit
+
+
+cd sdcard
+ls
+cd data/data
+ls
+
+
+
+
+

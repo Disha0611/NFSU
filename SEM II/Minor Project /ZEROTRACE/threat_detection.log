@@ -1,0 +1,16 @@
+2025-05-04 22:09:05,030 - WARNING - [MEDIUM][ACCIDENTAL] shubham: EMAIL DETECTED! (Subject: Project Alpha Details, To: ['ramji.zerotrace@gmail.com', '', '']
+2025-05-04 22:09:17,349 - WARNING - [MEDIUM][ACCIDENTAL] ramji: EMAIL DETECTED! (Subject: Project Alpha Details, To: ['ramji.zerotrace@gmail.com', '', '']
+2025-05-04 22:14:24,732 - WARNING - [HIGH][ACCIDENTAL] shubham: EMAIL DETECTED! (Subject: For My Reference, To: ['das61103@gmail.com', '', '']
+2025-05-04 22:21:13,697 - WARNING - [CRITICAL][ACCIDENTAL] ramji: EMAIL DETECTED! (Subject: Attendance Report, To: ['das61103@gmail.com', '', '']
+2025-05-04 22:28:03,775 - WARNING - [MEDIUM][ACCIDENTAL] ramji: EMAIL DETECTED! (Subject: File Link, To: ['vishnuraj.zerotrace@gmail.com', 'shubham.zerotrace@gmail.com', '', '']
+2025-05-04 22:28:22,213 - WARNING - [MEDIUM][INTENTIONAL] shubham: EMAIL DETECTED! (Subject: File Link, To: ['vishnuraj.zerotrace@gmail.com', 'shubham.zerotrace@gmail.com', '', '']
+2025-05-04 22:28:32,124 - WARNING - [MEDIUM][INTENTIONAL] vishnuraj: EMAIL DETECTED! (Subject: File Link, To: ['vishnuraj.zerotrace@gmail.com', 'shubham.zerotrace@gmail.com', '', '']
+2025-05-04 22:36:20,201 - WARNING - [MEDIUM][INTENTIONAL] vishnuraj: EMAIL DETECTED! (Subject: Thank you for applying to zerotrace, To: ['das61103@gmail.com', '', '']
+2025-05-04 23:03:24,213 - WARNING - [HIGH][ACCIDENTAL] rahul: Error checking inbox: cannot access local variable 'is_sender_internal' where it is not associated with a value
+2025-05-04 23:19:41,559 - WARNING - [MEDIUM][ACCIDENTAL] ramji: EMAIL DETECTED! (Subject: Records, To: ['dishaaaaaa65@gmail.com', '', '']
+2025-05-04 23:23:29,574 - WARNING - [HIGH][ACCIDENTAL] shubham: Zip file attachment detected: confidential.zip, hash: 349cd5ef76458fc9ec0651e3ef7da40987892a6a3f2ca8dc9447fca84aa775a9
+2025-05-04 23:23:29,575 - WARNING - [MEDIUM][NORMAL] shubham: EMAIL DETECTED! (Subject: All Files, To: ['ramji.zerotrace@gmail.com', '', '']
+2025-05-04 23:29:35,344 - WARNING - [MEDIUM][INTENTIONAL] ramji: EMAIL DETECTED! (Subject: Records, To: ['dishaaaaaa65@gmail.com', '', '']
+2025-05-04 23:32:37,275 - WARNING - [MEDIUM][INTENTIONAL] shubham: EMAIL DETECTED! (Subject: Meeting, To: ['shubham.zerotrace@gmail.com', '', '']
+2025-05-04 23:37:58,488 - WARNING - [MEDIUM][INTENTIONAL] rahul: EMAIL DETECTED! (Subject: Admin Files, To: ['shubham.zerotrace@gmail.com', '', '']
+2025-05-04 23:38:33,041 - WARNING - [MEDIUM][INTENTIONAL] shubham: EMAIL DETECTED! (Subject: Admin Files, To: ['shubham.zerotrace@gmail.com', '', '']
