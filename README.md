@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # NFSU
 =======
 # NFSU Study Material Repository
